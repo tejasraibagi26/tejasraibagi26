@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on An app to connect labourers connect.
+- 🔭 I’m currently working on An app to connect labourers.
 - 🌱 I’m currently learning Flutter and NodeJs
 - 💬 Ask me about my passion
 
