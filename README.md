@@ -1,29 +1,30 @@
 ### Hi there 👋
 
 ##PROJECTS
-###● Canteen Management App (Ordrista) (2020)
+
+### ● Canteen Management App (Ordrista) (2020)
 - Group Leader and Technical Lead for FrontEnd development in Flutter
 - Tech Stack: Node.js, Flutter, PostgreSQL\
 
-###● Branch Recommender (2020)
+### ● Branch Recommender (2020)
 - Created a website to recommend the best possible engineering branch based on the user input
 with the help of Machine Learning techniques.
 - Algorithms Used: XGBoost, Random Forest, K-means, Logistic Regression, Naive Bayes Models
 - Tech Stack: Node.js, React.js, Python
 Website Link: career.vercel.app
 
-###● Blockchain Certificate Credentialing System (2020)
+### ● Blockchain Certificate Credentialing System (2020)
 - Web based portals to verify and upload certificates to blockchain networks.
 - Created a full fledged admin system to upload .svg files alongside the certificate data in .csv format.
 - Ability to edit the files in realtime and the re-use of the already uploaded svg images.
 Website Link: educhain.apsit.edu.in
 
-###● C.L.A.S.H (2019)
+### ● C.L.A.S.H (2019)
 - Android game made in Unity.
 - Created an infinite shooter game from scratch in Unity Game Engine.
 - Tech Stack: Unity
 
-###● Airplane Ticket Booking System (2019)
+### ● Airplane Ticket Booking System (2019)
 - Create a portal to book flight tickets.
 - Tech Stack: PHP, JavaScript, Mysql, HTML
 
