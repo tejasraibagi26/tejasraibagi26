@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Tejas Raibagi, Full Stack Developer!
+
 
 ## PROJECTS
 
