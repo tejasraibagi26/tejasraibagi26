@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##PROJECTS
+## PROJECTS
 
 ### ● Canteen Management App (Ordrista) (2020)
 - Group Leader and Technical Lead for FrontEnd development in Flutter
