@@ -4,7 +4,7 @@
 
 ### ● Canteen Management App (Ordrista) (2020)
 - Group Leader and Technical Lead for FrontEnd development in Flutter
-- Tech Stack: Node.js, Flutter, PostgreSQL\
+- Tech Stack: Node.js, Flutter, PostgreSQL
 
 ### ● Branch Recommender (2020)
 - Created a website to recommend the best possible engineering branch based on the user input
