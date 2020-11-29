@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Tejas Raibagi, Full Stack Developer!
 
+### Currently working on a Discord Bot!
+
 
 ## PROJECTS
 
