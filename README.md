@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Tejas Raibagi, Full Stack Developer!
+Currently working as a ### Web Developer Intern at CollegePond
 
 ## Currently working on a Discord Bot!
 
