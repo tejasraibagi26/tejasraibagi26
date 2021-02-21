@@ -2,10 +2,7 @@
 I am Tejas Raibagi, Full Stack Developer!
 Currently working as a Web Developer Intern at CollegePond
 
-## Currently working on a Discord Bot!
-
-### My friends and I have a discord server, thus instead of using all the bots already available in the market we decided to create them from scratch on our own!
-
+## Currently working on a Food Ordering App for my college!
 
 ## PROJECTS
 
