@@ -10,7 +10,7 @@ Currently working as a Web Developer Intern at CollegePond
 ## PROJECTS
 
 ### ● Canteen Management App (Ordrista) (2020)
-- Group Leader and Technical Lead for FrontEnd development in Flutter
+- Group Leader and Technical Lead for development in Flutter and NodeJS
 - Tech Stack: Node.js, Flutter, PostgreSQL
 
 ### ● Branch Recommender (2020)
