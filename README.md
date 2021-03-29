@@ -5,7 +5,7 @@ I am Tejas Raibagi, Full Stack Developer!
 
 ## PROJECTS
 
-### ● Canteen Management App (Ordrista) (2020)
+### ● Canteen Management App (Orderista) (2020)
 - Group Leader and Technical Lead for development in Flutter and NodeJS
 - Tech Stack: Node.js, Flutter, PostgreSQL
 
