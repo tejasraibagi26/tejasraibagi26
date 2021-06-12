@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Tejas Raibagi, Full Stack Developer!
 
-## Currently working on a Food Ordering App for my college!
-
 ## PROJECTS
 
 ### ● Canteen Management App (Orderista) (2020)
